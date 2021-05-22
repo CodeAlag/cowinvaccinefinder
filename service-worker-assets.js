@@ -161,11 +161,11 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-F8lwdmM5zAXTK6rYCRGuxU0tHORIUy3lL7s0xRvu\/tE=",
+      "hash": "sha256-MbT10l92xqhfseQ6b9TKoGO74yo111Auxrl9LppJBio=",
       "url": "_framework\/CoWINVaccineFinder.Application.dll"
     },
     {
-      "hash": "sha256-1wzsQnTL72sdoqSSwij3UZVGD1tGJOd0VIm98Yf9p6U=",
+      "hash": "sha256-8RjZkCMTLm4ibJnKa\/oyCqQe2MFVvqGiMTlUAn\/Y1Fo=",
       "url": "_framework\/CoWINVaccineFinder.BlazorApp.dll"
     },
     {
@@ -341,7 +341,7 @@
       "url": "_framework\/en\/CoWINVaccineFinder.BlazorApp.resources.dll"
     },
     {
-      "hash": "sha256-B08Djo5vJKYsjYWE3VI9KiV0pVzw8QrBylKGX+uM8wQ=",
+      "hash": "sha256-2yZnGtBslIthZZkjfUTU34obQ\/PzW34pxZ6bHCWnMBU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -349,5 +349,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "7DWhjKZH"
+  "version": "PS2SDWcZ"
 };
