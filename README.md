@@ -1,1 +1,1 @@
-https://codealag.github.io/cowinvaccinefinder/
+https://durgaprasadreddyv.github.io/cowinvaccinefinder/
